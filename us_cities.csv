@@ -1,5 +1,7 @@
-nome,fazenda,latitude,longitude,hectares,region
-Uender,Rana,-17.839690,-51.008020,1745000,leste
-Cristina,Vitoria,-17.863673,-50.995685,1018000,Norte
-Roberto,Cha verde,-17.860440,-51.025282,755000,Sul
-Pedro,Agua boa,-17.837878,-51.039983,755000,Oeste
+CATEGORIA,STATUS,LATITUDE,LONGITUDE,HECTARES,PROPRIETARIO
+milho,plantado,-17.839690,-51.008020,1745000,Cristina
+soja,nascendo,-17.863673,-50.995685,1018000,Marcos
+floresta,nativa,-17.868867,-51.026366,755000,Uender
+cana,madura,-17.837878,-51.039983,755000,Roberto
+pasto,vigor,-17.857524,-51.030076,755000,Uender
+tomate,verde,-17.860605,-51.019614,755000,Uender
