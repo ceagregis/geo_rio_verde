@@ -1,7 +1,6 @@
-CATEGORIA,STATUS,LATITUDE,LONGITUDE,HECTARES,PROPRIETARIO
-milho,plantado,-17.839690,-51.008020,1745000,Cristina
-soja,nascendo,-17.863673,-50.995685,1018000,Marcos
-floresta,nativa,-17.868867,-51.026366,755000,Uender
-cana,madura,-17.837878,-51.039983,755000,Roberto
-pasto,vigor,-17.857524,-51.030076,755000,Uender
-tomate,verde,-17.860605,-51.019614,755000,Uender
+FAZENDA,CULTIVO,MUNICIPIO,PROPRIETARIO,LATITUDE,LONGITUDE
+Bauzinho,graos em sequeiro,Rio Verde,Ivan Brucelli,-17.9786039,-50.6887563
+Pindaiba,graos em sequeiro,Montividiu,Oscar Durigan,-17.524501,-51.226734
+Marambaia,graos em pivo central,Rio Verde,Jair Leão,-17.87611111,-51.10194444
+Usina Denusa,cana de acucar,Jandaia,Antonio,-17.249606325556858,-50.14454640310265
+
